@@ -1,0 +1,15 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/callen996/express.js-note-taker"
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^8.1.0",
+    "v1": "^1.0.0"
+  }
+}
